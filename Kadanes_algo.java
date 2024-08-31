@@ -4,6 +4,8 @@ public class Kadanes_algo {
         int[] nums={-2,1,-3,4,-1,2,1,-5,4};
         int max=Integer.MIN_VALUE;
         int sum=0;
+        int start=0;
+        int end=0;
          if(nums.length==1)
             {
                 System.out.println(nums[0]);
@@ -16,13 +18,15 @@ public class Kadanes_algo {
             if(sum>max)
             {
                 max=sum;
+                end=i;
             }
             if(sum<0)
             {
                 sum=0;
+                start=i+1;
             }
         }   
-        System.out.println(max);     
+        System.out.println(max+" "+start+" "+end);     
             }
     }
     
