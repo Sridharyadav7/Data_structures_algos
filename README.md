@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0990-satisfiability-of-equality-equations](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0990-satisfiability-of-equality-equations) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1346-check-if-n-and-its-double-exist) |
+## String
+|  |
+| ------- |
+| [0990-satisfiability-of-equality-equations](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0990-satisfiability-of-equality-equations) |
+## Union-Find
+|  |
+| ------- |
+| [0990-satisfiability-of-equality-equations](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0990-satisfiability-of-equality-equations) |
+## Graph Theory
+|  |
+| ------- |
+| [0990-satisfiability-of-equality-equations](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0990-satisfiability-of-equality-equations) |
 <!---LeetCode Topics End-->
