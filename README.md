@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0743-network-delay-time) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0743-network-delay-time) |
 | [0897-increasing-order-search-tree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0897-increasing-order-search-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0743-network-delay-time) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2685-count-the-number-of-complete-components) |
@@ -89,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0897-increasing-order-search-tree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0897-increasing-order-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
