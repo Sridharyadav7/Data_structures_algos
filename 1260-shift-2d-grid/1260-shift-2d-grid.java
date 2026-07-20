@@ -2,54 +2,32 @@ class Solution {
     public List<List<Integer>> shiftGrid(int[][] grid, int k) {
         int rows = grid.length;
         int cols = grid[0].length;
-        if (k == 0) {
-            List<List<Integer>> ans = new ArrayList<>();
-            for (int i = 0; i < rows; i++) {
-                ans.add(new ArrayList<>());
-                for (int j = 0; j < cols; j++) {
-                    ans.get(i).add(grid[i][j]);
-                }
-            }
-            return ans;
-        }
-        int cnt = 0;
-        int rowInd = 0;
-        int colInd = 1;
-        int res[][] = new int[rows][cols];
+        int n = rows * cols;
 
-        while(cnt < k) {
-            cnt++;
-            for(int i = 0; i < rows; i++) {
+        k = k % n;
+        reverse(grid, cols, 0, n - 1);
+        reverse(grid, cols, 0, k - 1);
+        reverse(grid, cols, k , n - 1);
 
-                for(int j = 0; j < cols; j++) {
-                    if(colInd == cols) {
-                        colInd = 0;
-                        rowInd++;
-                    }
-                    if(rowInd == rows) rowInd = 0;
-
-                    res[rowInd][colInd] = grid[i][j];
-                    colInd++;
-                }
-            }
-            if(cnt == k) break;
-            for(int i = 0; i < rows; i++) {
-                for(int j = 0; j < cols; j++) {
-                    grid[i][j] = res[i][j];
-                }
-            }
-            colInd = 1;
-            rowInd = 0;
-        }
         List<List<Integer>> ans = new ArrayList<>();
-        for(int i = 0; i < rows; i++) {
-            ans.add(new ArrayList<>());
-        }
+        for(int i = 0; i < rows; i++) ans.add(new ArrayList<>());
         for(int i = 0; i < rows; i++) {
             for(int j = 0; j < cols; j++) {
-                ans.get(i).add(res[i][j]);
+                ans.get(i).add(grid[i][j]);
             }
         }
         return ans;
+    }
+    public void reverse(int[][] grid, int cols, int start, int end) {
+        while(start < end) {
+            swap(grid, start/cols, start%cols, end/cols, end%cols);
+            start++;
+            end--;
+        }
+    }
+    public void swap(int[][] grid, int row1, int col1, int row2, int col2) {
+        int temp = grid[row1][col1];
+        grid[row1][col1] = grid[row2][col2];
+        grid[row2][col2] = temp;
     }
 }
