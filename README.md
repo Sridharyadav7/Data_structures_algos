@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
