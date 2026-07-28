@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1389-create-target-array-in-the-given-order) |
 | [1514-path-with-maximum-probability](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1631-path-with-minimum-effort) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1260-shift-2d-grid) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1389-create-target-array-in-the-given-order) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
