@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0721-accounts-merge](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0721-accounts-merge) |
 | [0924-minimize-malware-spread](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0924-minimize-malware-spread) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0394-decode-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0394-decode-string) |
 | [0721-accounts-merge](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0990-satisfiability-of-equality-equations) |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1980-find-unique-binary-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
