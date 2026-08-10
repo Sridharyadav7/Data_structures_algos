@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0896-monotonic-array) |
 | [0924-minimize-malware-spread](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0924-minimize-malware-spread) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0930-binary-subarrays-with-sum) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0952-largest-component-size-by-common-factor) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0990-satisfiability-of-equality-equations) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0721-accounts-merge) |
 | [0924-minimize-malware-spread](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0924-minimize-malware-spread) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0952-largest-component-size-by-common-factor) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -290,12 +292,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0930-binary-subarrays-with-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1590-make-sum-divisible-by-p) |
 ## Pigeonhole Principle
