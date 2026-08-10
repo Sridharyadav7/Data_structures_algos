@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0064-minimum-path-sum) |
 | [0135-candy](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0135-candy) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0209-minimum-size-subarray-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0417-pacific-atlantic-water-flow) |
 | [0523-continuous-subarray-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0525-contiguous-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0209-minimum-size-subarray-sum) |
 | [0778-swim-in-rising-water](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0778-swim-in-rising-water) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1631-path-with-minimum-effort](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1631-path-with-minimum-effort) |
@@ -292,10 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0930-binary-subarrays-with-sum) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0560-subarray-sum-equals-k) |
