@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3731-find-missing-elements](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1631-path-with-minimum-effort) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1590-make-sum-divisible-by-p) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Pigeonhole Principle
 |  |
 | ------- |
