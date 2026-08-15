@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0628-maximum-product-of-three-numbers) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0845-longest-mountain-in-array) |
@@ -358,5 +360,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
