@@ -7,9 +7,11 @@ class Solution {
             // Two cases if nums[i] element is added to the subsequence
 
             // length becomes even -> nums[i] should be subtracted 
+                                //pick                  //unpick
             dp[i][0] = Math.max(dp[i-1][1] - nums[i-1], dp[i-1][0]);
 
             // length becomes odd -> nums[i] should be added 
+                                //pick                  //unpick
             dp[i][1] = Math.max(dp[i-1][0] + nums[i-1], dp[i-1][1]);
         }
 
