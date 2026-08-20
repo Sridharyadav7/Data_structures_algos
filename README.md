@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-path-with-minimum-effort](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1631-path-with-minimum-effort) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1980-find-unique-binary-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2320-count-number-of-ways-to-place-houses) |
 ## Topological Sort
