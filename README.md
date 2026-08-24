@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0740-delete-and-earn) |
 | [0778-swim-in-rising-water](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0778-swim-in-rising-water) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0135-candy) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0646-maximum-length-of-pair-chain) |
 | [1386-cinema-seat-allocation](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0403-frog-jump) |
 | [0494-target-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0845-longest-mountain-in-array) |
@@ -429,4 +433,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
