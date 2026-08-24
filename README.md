@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0403-frog-jump) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0494-target-sum) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0403-frog-jump) |
 | [0494-target-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0509-fibonacci-number) |
@@ -422,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0494-target-sum) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
