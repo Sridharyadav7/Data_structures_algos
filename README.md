@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0064-minimum-path-sum) |
 | [0135-candy](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0198-house-robber) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0064-minimum-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0417-pacific-atlantic-water-flow) |
 | [0778-swim-in-rising-water](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0778-swim-in-rising-water) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0198-house-robber) |
