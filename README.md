@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0403-frog-jump) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0560-subarray-sum-equals-k) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0403-frog-jump) |
 | [0494-target-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -483,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1143-longest-common-subsequence) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
