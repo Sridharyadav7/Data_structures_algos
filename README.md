@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1980-find-unique-binary-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0135-candy) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0646-maximum-length-of-pair-chain) |
 | [1386-cinema-seat-allocation](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
