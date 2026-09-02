@@ -10,14 +10,11 @@ class Solution {
         for (int arr[] : dp) {
             Arrays.fill(arr, -1);
         }
-        return solve(word1, word2, 0, 0);
+        return solve(word1, word2, m, n);
     }
     public int solve(String s1, String s2, int i, int j) {
-        if (i == m) {
-            return n - j;
-        }
-        if (j == n) {
-            return m - i;
+        if (i == 0 || j == 0) {
+            return i + j;
         }
 
         if (dp[i][j] != -1) {
@@ -26,13 +23,13 @@ class Solution {
 
         int res = 0;
 
-        if (s1.charAt(i) == s2.charAt(j)) {
-            res = solve(s1, s2, i+1, j+1);
+        if (s1.charAt(i-1) == s2.charAt(j-1)) {
+            res = solve(s1, s2, i-1, j-1);
         }
         else {
-            int insert = 1 + solve(s1, s2, i, j+1);
-            int delete = 1 + solve(s1, s2, i+1, j);
-            int replace = 1 + solve(s1, s2, i+1, j+1);
+            int insert = 1 + solve(s1, s2, i, j-1);
+            int delete = 1 + solve(s1, s2, i-1, j);
+            int replace = 1 + solve(s1, s2, i-1, j-1);
 
             res = Math.min(insert, Math.min(delete, replace));
         }
