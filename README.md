@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0845-longest-mountain-in-array) |
 | [1048-longest-string-chain](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1048-longest-string-chain) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0097-interleaving-string) |
 | [0394-decode-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0394-decode-string) |
+| [0647-palindromic-substrings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0990-satisfiability-of-equality-equations) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0646-maximum-length-of-pair-chain) |
+| [0647-palindromic-substrings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0845-longest-mountain-in-array) |
