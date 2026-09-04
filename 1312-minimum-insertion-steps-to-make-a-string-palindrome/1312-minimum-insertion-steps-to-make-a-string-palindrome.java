@@ -3,10 +3,25 @@ class Solution {
     public int minInsertions(String s) {
         int n = s.length();
         dp = new int[n+1][n+1];
-        for (int arr[]: dp) {
-            Arrays.fill(arr, Integer.MAX_VALUE);
+        // for (int arr[]: dp) {
+        //     Arrays.fill(arr, Integer.MAX_VALUE);
+        // }
+
+        for(int l = 1; l <= n; l++) {
+            for (int i = 0; i + l - 1 < n; i++) {
+                int j = i + l - 1;
+                if (i == j) {
+                    dp[i][j] = 0;
+                }
+                else if (s.charAt(i) == s.charAt(j)) {
+                    dp[i][j] = dp[i+1][j-1];
+                }
+                else {
+                    dp[i][j] = 1 + Math.min(dp[i+1][j], dp[i][j-1]);
+                }
+            }
         }
-        return solve(s, 0, n - 1);
+        return dp[0][n-1];
     }
     public int solve(String s, int i, int j) {
         if (i > j) {
