@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0131-palindrome-partitioning) |
 | [0394-decode-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0516-longest-palindromic-subsequence) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0198-house-robber) |
