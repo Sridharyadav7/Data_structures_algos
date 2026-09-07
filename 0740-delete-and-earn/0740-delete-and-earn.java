@@ -1,39 +1,41 @@
 class Solution {
     public int deleteAndEarn(int[] nums) {
-        int n = nums.length;
         Arrays.sort(nums);
-        Map<Integer, Integer> map = new HashMap<>();
+        int n = nums.length;
         List<Integer> list = new ArrayList<>();
-        int curr = nums[0];
         int cnt = 0;
+        int curr = nums[0];
+        Map<Integer, Integer> map = new HashMap<>();
 
-        for(int i = 0; i < n; i++) {
-            if(nums[i] == curr) {
+        for (int i = 0; i < n; i++) {
+            if (nums[i] == curr) {
                 cnt++;
             }
             else {
-                list.add(curr);
                 map.put(curr, cnt * curr);
+                list.add(curr);
                 curr = nums[i];
                 cnt = 1;
             }
         }
-        list.add(curr);
         map.put(curr, cnt * curr);
-        
-        int len = list.size();
-        int dp[] = new int[len + 1];
-        dp[0] = 0;
-        dp[1] = map.get(list.get(0));
+        list.add(curr);
 
-        for(int i = 2; i <= len; i++) {
-            if(list.get(i-1) == list.get(i-2) + 1) {
-                dp[i] = Math.max(dp[i-2] + map.get(list.get(i-1)), dp[i-1]);
+        int len = list.size();
+        int dp[] = new int[len + 2];
+        dp[2] = map.get(nums[0]);
+
+        for (int i = 3; i < len + 2; i++) {
+            curr = list.get(i-2);
+            int prev = list.get(i-3);
+
+            if (curr > prev + 1) {
+                dp[i] = map.get(curr) + dp[i-1];
             }
             else {
-                dp[i] = dp[i-1] + map.get(list.get(i-1));
+                dp[i] = Math.max(map.get(curr) + dp[i-2], dp[i-1]);
             }
         }
-        return dp[len];
+        return dp[len+1];
     }
 }
