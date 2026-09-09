@@ -1,47 +1,35 @@
 class Solution {
+    int m;
+    int n;
+    int dp[][];
+    
     public int minPathSum(int[][] grid) {
-        int rows = grid.length;
-        int cols = grid[0].length;
-        int res[][] = new int[rows][cols];
-        for(int arr[] : res) Arrays.fill(arr, Integer.MAX_VALUE);
-        res[0][0] = grid[0][0];
-        PriorityQueue<Pair> pq = new PriorityQueue<>((a, b) -> a.sum - b.sum);
-        pq.add(new Pair(0, 0, grid[0][0]));
-        int delRow[] = {0, 1};
-        int delCol[] = {1, 0};
+        m = grid.length;
+        n = grid[0].length;
+        dp = new int[m+1][n+1];
 
-        while(!pq.isEmpty()) {
-            Pair curr = pq.poll();
-            int row = curr.row;
-            int col = curr.col;
-            int sum = curr.sum;
-
-            if(sum > res[row][col]) continue;
-            for(int i = 0; i < 2; i++) {
-                int nr = row + delRow[i];
-                int nc = col + delCol[i];
-
-                if(nr >= 0 && nr < rows && nc >= 0 && nc < cols) {
-                    int newSum = sum + grid[nr][nc];
-                    if(newSum < res[nr][nc]) {
-                        res[nr][nc] = newSum;
-                        pq.add(new Pair(nr, nc, newSum));
-                    }
-                }
-            }
+        for (int arr[] : dp) {
+            Arrays.fill(arr, -1);
         }
-        return res[rows-1][cols-1];
+        return find(grid, 0, 0);
     }
-}
+    public int find(int[][] grid, int i, int j) {
 
-class Pair {
-    int row; 
-    int col; 
-    int sum;
+        if (i == m - 1 && j == n - 1) {
+            return grid[m-1][n-1];
+        }
+        if (dp[i][j] != -1) {
+            return dp[i][j];
+        }
+        int right = Integer.MAX_VALUE;
+        int bottom = Integer.MAX_VALUE;
 
-    public Pair(int _row, int _col, int _sum) {
-        this.row = _row;
-        this.col = _col;
-        this.sum = _sum;
+        if (j < n - 1) {
+            right = find(grid, i, j + 1);
+        }
+        if (i < m - 1) {
+            bottom = find(grid, i + 1, j);
+        }
+        return dp[i][j] = grid[i][j] + Math.min(right, bottom);
     }
 }
