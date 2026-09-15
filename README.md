@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0952-largest-component-size-by-common-factor) |
+| [1922-count-good-numbers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bracket Sequences
