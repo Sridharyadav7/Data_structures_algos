@@ -1,32 +1,34 @@
 class Solution {
-    int rows;
-    int cols;
-    int dp[][] = new int[101][101];
-
+    int M;
+    int N;
+    int dp[][];
+    
     public int uniquePaths(int m, int n) {
-        rows = m;
-        cols = n;
+        M = m;
+        N = n;
+        dp = new int[M+1][N+1];
 
-        for(int arr[] : dp) {
+        for (int arr[]: dp) {
             Arrays.fill(arr, -1);
         }
-
-        return ways(0, 0);
+        return find(0, 0);
     }
-    public int ways(int row, int col) {
-        if (row == rows - 1 && col == cols - 1) {
-            return 1;
-        }
-        if (row == rows || col == cols) {
+    public int find(int i, int j) {
+        if (i >= M || j >= N) {
             return 0;
         }
-        if(dp[row][col] != -1) {
-            return dp[row][col];
+
+        if (i == M - 1 && j == N - 1) {
+            return 1;
         }
 
-        int down = ways(row + 1, col);
-        int right = ways(row, col + 1);
+        if (dp[i][j] != -1) {
+            return dp[i][j];
+        }
 
-        return dp[row][col] = down + right;
+        int right = find(i, j+1);
+        int down = find(i+1, j);
+
+        return dp[i][j] = right + down;
     }
 }
