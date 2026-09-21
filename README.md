@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1631-path-with-minimum-effort) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## Topological Sort
 |  |
 | ------- |
