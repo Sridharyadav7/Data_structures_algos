@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1389-create-target-array-in-the-given-order) |
+| [1463-cherry-pickup-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1463-cherry-pickup-ii) |
 | [1514-path-with-maximum-probability](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1590-make-sum-divisible-by-p) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1314-matrix-block-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1314-matrix-block-sum) |
+| [1463-cherry-pickup-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1631-path-with-minimum-effort) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1463-cherry-pickup-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1976-number-of-ways-to-arrive-at-destination) |
