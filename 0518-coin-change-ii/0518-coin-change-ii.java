@@ -1,27 +1,31 @@
 class Solution {
-    int dp[][] = new int[301][5001];
+    int n;
+    int dp[][];
 
     public int change(int amount, int[] coins) {
-        int n = coins.length;
+        n = coins.length;
+        dp = new int[n+1][amount+1];
 
-        for (int arr[] : dp) {
+        for (int arr[]: dp) {
             Arrays.fill(arr, -1);
         }
-        return find(n, coins, amount, 0, 0);
+        return find(coins, amount, 0, 0);
     }
-    public int find(int n, int coins[], int amount, int ind, int sum) {
-        if (ind == n && sum == amount) {
+    public int find(int[] coins, int amount, int i, int sum) {
+        if (sum == amount) {
             return 1;
         }
-        else if (ind == n || sum > amount) {
+        if (sum > amount || i == n) {
             return 0;
         }
-        if (dp[ind][sum] != -1) {
-            return dp[ind][sum];
-        }
-        int pick = find(n, coins, amount, ind, sum + coins[ind]);
-        int unpick = find(n, coins, amount, ind + 1, sum);
 
-        return dp[ind][sum] = pick + unpick;
+        if (dp[i][sum] != -1) {
+            return dp[i][sum]; 
+        }
+
+        int pick = find(coins, amount, i, sum + coins[i]);
+        int skip = find(coins, amount, i+1, sum);
+
+        return dp[i][sum] = pick + skip;
     }
 }
