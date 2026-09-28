@@ -1,61 +1,37 @@
 class Solution {
+    int m;
+    int n;
+    int dp[][];
+
     public int countSquares(int[][] matrix) {
-        int rows = matrix.length;
-        int cols = matrix[0].length;
-        int maxlen = Math.min(rows, cols);
-        int prefix[][] = new int[rows][cols];
+        m = matrix.length;
+        n = matrix[0].length;
         int ans = 0;
+        dp = new int[m+1][n+1];
 
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                if (matrix[i][j] == 1) {
-                    ans++;
-                }
-                if (j == 0) {
-                    prefix[i][j] = matrix[i][j];
-                }
-                else {
-                    prefix[i][j] = prefix[i][j-1] + matrix[i][j];
-                }
-            }
+        for (int arr[]: dp) {
+            Arrays.fill(arr, -1);
         }
-        for (int j = 0; j < cols; j++) {
-            for (int i = 1; i < rows; i++) {
-                prefix[i][j] = prefix[i][j] + prefix[i-1][j];
-            }
-        }
-        
-        for (int l = 2; l <= maxlen; l++) {
-            for (int i = 0; i + l - 1 < rows; i++) {
-                int r1 = i;
-                int c1 = 0;
-                int r2 = r1 + l - 1;
-                int c2 = c1 + l - 1;
 
-                while(c2 < cols && r2 < rows) {
-                    if(getPrefixSum(prefix, r1, c1, r2, c2) == l * l) {
-                        ans++;
-                    }
-                    c1++;
-                    c2++;
-                }
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                ans += solve(matrix, i, j);
             }
         }
         return ans;
     }
-    public int getPrefixSum(int prefix[][], int r1, int c1, int r2, int c2) {
-        int sum = prefix[r2][c2];
-
-        if(r1 > 0) {
-            sum -= prefix[r1-1][c2];
-        }
-        if (c1 > 0) {
-            sum -= prefix[r2][c1-1];
-        }
-        if (r1 > 0 && c1 > 0) {
-            sum += prefix[r1-1][c1-1];
+    public int solve(int[][] matrix, int i, int j) {
+        if (i == m || j == n || matrix[i][j] == 0) {
+            return 0;
         }
 
-        return sum;
+        if (dp[i][j] != -1) {
+            return dp[i][j];
+        }
+        int right = solve(matrix, i, j+1);
+        int diagonal = solve(matrix, i+1, j+1);
+        int below = solve(matrix, i+1, j);
+
+        return dp[i][j] = 1 + Math.min(right, Math.min(diagonal, below));
     }
 }
