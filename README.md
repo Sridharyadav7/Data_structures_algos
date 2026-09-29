@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1980-find-unique-binary-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1631-path-with-minimum-effort) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## Dynamic Programming
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
 | ------- |
