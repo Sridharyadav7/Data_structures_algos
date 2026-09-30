@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1092-shortest-common-supersequence) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0394-decode-string) |
 | [0897-increasing-order-search-tree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0897-increasing-order-search-tree) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2390-removing-stars-from-a-string) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
