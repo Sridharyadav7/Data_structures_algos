@@ -1,19 +1,23 @@
 class Solution {
-    int ans = 0;
+    int n;
 
     public int findTargetSumWays(int[] nums, int target) {
-        int n = nums.length;
-        recurse(n, nums, 0, 0, target);
-        return ans;
+        n = nums.length;
+        return find(nums, target, 0, 0); 
     }
-    public void recurse(int n, int nums[], int ind, int sum, int target) {
-        if(ind == n) {
-            if(sum == target) {
-                ans += 1;
+    public int find(int nums[], int target, int i, int sum) {
+        if (i == n) {
+            if (sum == target) {
+                return 1;
             }
-            return;
+            else {
+                return 0;
+            }
         }
-        recurse(n, nums, ind + 1, sum + nums[ind], target);
-        recurse(n, nums, ind + 1, sum - nums[ind], target);
+
+        int add = find(nums, target, i+1, sum + nums[i]);
+        int subtract = find(nums, target, i+1, sum - nums[i]);
+
+        return add + subtract;
     }
 }
