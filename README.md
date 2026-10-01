@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0115-distinct-subsequences) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0394-decode-string) |
 | [0897-increasing-order-search-tree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0897-increasing-order-search-tree) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
