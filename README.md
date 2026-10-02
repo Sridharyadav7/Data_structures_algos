@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0132-palindrome-partitioning-ii) |
 | [0394-decode-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0721-accounts-merge) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0647-palindromic-substrings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1143-longest-common-subsequence) |
 ## Complete Knapsack
