@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0132-palindrome-partitioning-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0583-delete-operation-for-two-strings) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0301-remove-invalid-parentheses) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0721-accounts-merge) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1980-find-unique-binary-string) |
 ## Sliding Window
