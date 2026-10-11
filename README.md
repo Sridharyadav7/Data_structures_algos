@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1980-find-unique-binary-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3499-maximize-active-section-with-trade-i) |
