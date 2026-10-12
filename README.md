@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0952-largest-component-size-by-common-factor) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0981-time-based-key-value-store](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1331-rank-transform-of-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0778-swim-in-rising-water](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0981-time-based-key-value-store](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0981-time-based-key-value-store) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1631-path-with-minimum-effort](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1631-path-with-minimum-effort) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0940-distinct-subsequences-ii) |
+| [0981-time-based-key-value-store](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0981-time-based-key-value-store) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1048-longest-string-chain) |
@@ -660,4 +663,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
