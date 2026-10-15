@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0115-distinct-subsequences) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0856-score-of-parentheses) |
