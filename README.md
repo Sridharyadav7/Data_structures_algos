@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0740-delete-and-earn) |
 | [0846-hand-of-straights](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0846-hand-of-straights) |
+| [0895-maximum-frequency-stack](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0895-maximum-frequency-stack) |
 | [0924-minimize-malware-spread](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0924-minimize-malware-spread) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0856-score-of-parentheses) |
+| [0895-maximum-frequency-stack](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0895-maximum-frequency-stack) |
 | [0897-increasing-order-search-tree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1021-remove-outermost-parentheses) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0706-design-hashmap) |
+| [0895-maximum-frequency-stack](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0981-time-based-key-value-store) |
 ## Binary Indexed Tree
 |  |
@@ -689,4 +692,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
