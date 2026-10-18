@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0896-monotonic-array) |
+| [0912-sort-an-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0912-sort-an-array) |
 | [0924-minimize-malware-spread](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0924-minimize-malware-spread) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-valid-mountain-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0941-valid-mountain-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0846-hand-of-straights) |
+| [0912-sort-an-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0912-sort-an-array) |
 | [1048-longest-string-chain](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0912-sort-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
@@ -648,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0912-sort-an-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -702,4 +707,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0895-maximum-frequency-stack) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
