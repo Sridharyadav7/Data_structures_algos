@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1980-find-unique-binary-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1631-path-with-minimum-effort](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3517-smallest-palindromic-rearrangement-i) |
