@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0076-minimum-window-substring) |
 | [0523-continuous-subarray-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0560-subarray-sum-equals-k) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0131-palindrome-partitioning) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0209-minimum-size-subarray-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0930-binary-subarrays-with-sum) |
