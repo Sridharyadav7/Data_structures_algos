@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0337-house-robber-iii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0721-accounts-merge) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0337-house-robber-iii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0337-house-robber-iii) |
 | [0897-increasing-order-search-tree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0337-house-robber-iii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0337-house-robber-iii) |
 | [0897-increasing-order-search-tree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0322-coin-change) |
+| [0337-house-robber-iii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0403-frog-jump) |
@@ -731,4 +735,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0912-sort-an-array) |
+## DP on Trees
+|  |
+| ------- |
+| [0337-house-robber-iii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0337-house-robber-iii) |
 <!---LeetCode Topics End-->
