@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0113-path-sum-ii) |
 | [0337-house-robber-iii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0684-redundant-connection) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0113-path-sum-ii) |
 | [0337-house-robber-iii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0337-house-robber-iii) |
 | [0897-increasing-order-search-tree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0113-path-sum-ii) |
 | [0337-house-robber-iii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0337-house-robber-iii) |
 | [0897-increasing-order-search-tree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0022-generate-parentheses) |
+| [0113-path-sum-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0494-target-sum) |
