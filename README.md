@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0213-house-robber-ii) |
+| [0289-game-of-life](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0368-largest-divisible-subset) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0174-dungeon-game) |
+| [0289-game-of-life](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0417-pacific-atlantic-water-flow) |
 | [0778-swim-in-rising-water](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0827-making-a-large-island) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1389-create-target-array-in-the-given-order) |
 | [2390-removing-stars-from-a-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2390-removing-stars-from-a-string) |
