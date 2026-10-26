@@ -7,19 +7,23 @@ class Solution {
         boolean vis[][] = new boolean[m][n];
         int delRow[] = {-1, 0, 1, 0};
         int delCol[] = {0, -1, 0, 1};
+        boolean isSubIsland = true;
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (!vis[i][j] && grid2[i][j] == 1) {
                     que.add(new Pair(i, j));
                     vis[i][j] = true;
-                    List<Pair> cells = new ArrayList<>();
+                    isSubIsland = true;
 
                     while (!que.isEmpty()) {
                         Pair curr = que.poll();
                         int row = curr.row;
                         int col = curr.col;
-                        cells.add(new Pair(row, col));
+
+                        if (grid1[row][col] != grid2[row][col]) {
+                            isSubIsland = false;
+                        }
 
                         for (int ind = 0; ind < 4; ind++) {
                             int newRow = row + delRow[ind];
@@ -31,14 +35,6 @@ class Solution {
                                 que.add(new Pair(newRow, newCol));
                                 vis[newRow][newCol] = true;
                             }
-                        }
-                    }
-
-                    boolean isSubIsland = true;
-                    for (Pair p : cells) {
-                        if (grid1[p.row][p.col] == 0) {
-                            isSubIsland = false;
-                            break;
                         }
                     }
 
