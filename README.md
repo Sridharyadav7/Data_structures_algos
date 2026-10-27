@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0518-coin-change-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0147-insertion-sort-list) |
 | [0368-largest-divisible-subset](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0368-largest-divisible-subset) |
+| [0435-non-overlapping-intervals](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0646-maximum-length-of-pair-chain) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0678-valid-parenthesis-string) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0516-longest-palindromic-subsequence) |
