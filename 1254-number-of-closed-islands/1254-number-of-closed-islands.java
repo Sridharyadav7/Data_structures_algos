@@ -10,6 +10,10 @@ class Solution {
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
+
+                if (i == 0 || i == m - 1 || j == 0 || j == n - 1) {
+                    continue;
+                }
                 if (grid[i][j] == 0 && !vis[i][j]) {
                     que.add(new Pair(i, j));
                     vis[i][j] = true;
