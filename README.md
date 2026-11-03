@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0337-house-robber-iii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0684-redundant-connection) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0301-remove-invalid-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0417-pacific-atlantic-water-flow) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0337-house-robber-iii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0337-house-robber-iii) |
 | [0897-increasing-order-search-tree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0337-house-robber-iii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0337-house-robber-iii) |
 | [0897-increasing-order-search-tree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -683,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0147-insertion-sort-list](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0147-insertion-sort-list) |
 | [0706-design-hashmap](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0706-design-hashmap) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
