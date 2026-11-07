@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1386-cinema-seat-allocation) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1980-find-unique-binary-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1980-find-unique-binary-string) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1980-find-unique-binary-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1980-find-unique-binary-string) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1463-cherry-pickup-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1463-cherry-pickup-ii) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1314-matrix-block-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1314-matrix-block-sum) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2485-find-the-pivot-integer) |
@@ -693,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1386-cinema-seat-allocation) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Linked List
 |  |
 | ------- |
