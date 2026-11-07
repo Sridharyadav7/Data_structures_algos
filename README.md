@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1882-process-tasks-using-servers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1882-process-tasks-using-servers) |
 | [1905-count-sub-islands](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1905-count-sub-islands) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1046-last-stone-weight) |
 | [1514-path-with-maximum-probability](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1631-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1882-process-tasks-using-servers) |
 ## Shortest Path
 |  |
 | ------- |
