@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1882-process-tasks-using-servers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1882-process-tasks-using-servers) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1046-last-stone-weight) |
 | [1514-path-with-maximum-probability](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1514-path-with-maximum-probability) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1631-path-with-minimum-effort) |
 | [1882-process-tasks-using-servers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1882-process-tasks-using-servers) |
 ## Shortest Path
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1389-create-target-array-in-the-given-order) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2390-removing-stars-from-a-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Minimum Spanning Tree
@@ -791,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0895-maximum-frequency-stack) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Divide and Conquer
 |  |
 | ------- |
