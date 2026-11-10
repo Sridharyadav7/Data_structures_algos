@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3693-climbing-stairs-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3731-find-missing-elements) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3693-climbing-stairs-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3693-climbing-stairs-ii) |
 ## Topological Sort
 |  |
 | ------- |
