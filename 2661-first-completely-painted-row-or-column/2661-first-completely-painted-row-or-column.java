@@ -2,9 +2,10 @@ class Solution {
     public int firstCompleteIndex(int[] arr, int[][] mat) {
         int m = mat.length;
         int n = mat[0].length;
+
         Map<Integer, Pair> map = new HashMap<>();
-        Map<Integer, Integer> rowMap = new HashMap<>();
-        Map<Integer, Integer> colMap = new HashMap<>();
+        int[] rowCount = new int[m];
+        int[] colCount = new int[n];
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
@@ -12,40 +13,32 @@ class Solution {
             }
         }
 
-        for (int i = 0; i < m; i++) {
-            rowMap.put(i, n);
-        }
-
-        for (int i = 0; i < n; i++) {
-            colMap.put(i, m);
-        }
+        Arrays.fill(rowCount, n);
+        Arrays.fill(colCount, m);
 
         for (int i = 0; i < arr.length; i++) {
             Pair curr = map.get(arr[i]);
+
             int row = curr.row;
             int col = curr.col;
 
-            rowMap.put(row, rowMap.get(row) - 1);
-            if (rowMap.get(row) == 0) {
-                return i;
-            }
+            rowCount[row]--;
+            colCount[col]--;
 
-            colMap.put(col, colMap.get(col) - 1);
-            if (colMap.get(col) == 0) {
+            if (rowCount[row] == 0 || colCount[col] == 0) {
                 return i;
             }
         }
 
-        return 0;
+        return -1;
     }
 }
 
 class Pair {
-    int row;
-    int col;
+    int row, col;
 
-    public Pair (int _row, int _col) {
-        this.row = _row;
-        this.col = _col;
+    public Pair(int row, int col) {
+        this.row = row;
+        this.col = col;
     }
 }
