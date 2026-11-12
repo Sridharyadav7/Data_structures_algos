@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2661-first-completely-painted-row-or-column](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2661-first-completely-painted-row-or-column) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1980-find-unique-binary-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1980-find-unique-binary-string) |
 | [2374-node-with-highest-edge-score](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2374-node-with-highest-edge-score) |
+| [2661-first-completely-painted-row-or-column](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2661-first-completely-painted-row-or-column) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1905-count-sub-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2661-first-completely-painted-row-or-column](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2661-first-completely-painted-row-or-column) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
