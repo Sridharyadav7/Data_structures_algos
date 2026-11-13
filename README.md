@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3483-unique-3-digit-even-numbers) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 ## Sorting
 |  |
 | ------- |
