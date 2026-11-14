@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1980-find-unique-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1386-cinema-seat-allocation) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1864-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1864-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
