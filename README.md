@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1389-create-target-array-in-the-given-order) |
 | [1463-cherry-pickup-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1463-cherry-pickup-ii) |
 | [1514-path-with-maximum-probability](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1514-path-with-maximum-probability) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0952-largest-component-size-by-common-factor) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1922-count-good-numbers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2485-find-the-pivot-integer) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1463-cherry-pickup-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1463-cherry-pickup-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1314-matrix-block-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1314-matrix-block-sum) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
