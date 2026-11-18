@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3483-unique-3-digit-even-numbers) |
+| [3493-properties-graph](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3493-properties-graph) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3483-unique-3-digit-even-numbers) |
+| [3493-properties-graph](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3493-properties-graph) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3731-find-missing-elements) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2685-count-the-number-of-complete-components) |
+| [3493-properties-graph](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3493-properties-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2374-node-with-highest-edge-score](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2374-node-with-highest-edge-score) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3310-remove-methods-from-project) |
+| [3493-properties-graph](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3493-properties-graph) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3310-remove-methods-from-project) |
+| [3493-properties-graph](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3493-properties-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -370,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3310-remove-methods-from-project) |
+| [3493-properties-graph](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3493-properties-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Greedy
 |  |
