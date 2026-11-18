@@ -5,21 +5,9 @@ class Solution {
         int zeroes = 0;
         int ops = 0;
 
-        for (int i = 0; i < n; i++) {
-            char c = s.charAt(i);
-            if (c == '0') {
-                zeroes++;
-            }
-            else {
-                ones++;
-            }
-
-            if (i % 2 == 1) {
-                if (ones == zeroes) {
-                    ops++;
-                }
-                zeroes = 0;
-                ones = 0;
+        for (int i = 1; i < n; i += 2) {
+            if (s.charAt(i) != s.charAt(i-1)) {
+                ops++;
             }
         }
 
