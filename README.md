@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1389-create-target-array-in-the-given-order) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0952-largest-component-size-by-common-factor) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1922-count-good-numbers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1314-matrix-block-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1314-matrix-block-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1352-product-of-the-last-k-numbers) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0981-time-based-key-value-store) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -848,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1352-product-of-the-last-k-numbers) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
