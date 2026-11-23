@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -797,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0836-rectangle-overlap) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Quicksort
 |  |
 | ------- |
