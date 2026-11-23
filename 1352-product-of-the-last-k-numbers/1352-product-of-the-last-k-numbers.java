@@ -7,26 +7,22 @@ class ProductOfNumbers {
     }
     
     public void add(int num) {
-        long prev = product.size() == 0 ? 1 : product.get(product.size()-1);
-        if (product.size() > 0 && prev == 0) {
-            product.add((long) num);
+        if (num == 0) {
+            product.clear();
         }
         else {
+            long prev = product.size() > 0 ? product.get(product.size()-1) : 1;
             product.add(num * prev);
-        }
-
-        if (num == 0) {
-            prevZero = product.size() - 1;
         }
     }
     
     public int getProduct(int k) {
-        int start = product.size() - k;
-        if (prevZero >= start) {
+        if (k > product.size()) {
             return 0;
         }
-        long deno = start < 1 || product.get(start - 1) == 0 ? 1 : product.get(start - 1);
-        return (int) (product.get(product.size()-1) / deno);
+        int start = product.size() - k;
+        long deno = start < 1 ? 1 : product.get(start - 1);
+        return (int) (product.get(product.size() - 1) / deno);
     }
 }
 
