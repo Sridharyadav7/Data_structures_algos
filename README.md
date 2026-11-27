@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3310-remove-methods-from-project) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3493-properties-graph](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3493-properties-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
