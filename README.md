@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3693-climbing-stairs-ii](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Sridharyadav7/Data_structures_algos/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Topological Sort
 |  |
 | ------- |
